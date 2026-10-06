@@ -14,7 +14,7 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 
 ---
 
-### 🔐 Security Focus
+### 🔐 Cybersecurity Focus
 
 - **Web Application Security** — common vulnerability classes (OWASP Top 10), authentication/authorization flows, secure session handling
 - **Vulnerability Assessment & Security Testing** — reconnaissance and enumeration techniques, attack-surface discovery
@@ -28,7 +28,7 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 
 **Security & Testing**
 <br/>
-![](https://skillicons.dev/icons?i=py,linux,burpsuite) <img src="https://github.com/wireshark.png" width="48" height="48" alt="Wireshark" /> <img src="https://github.com/splunk.png" width="48" height="48" alt="Splunk" /> <img src="https://github.com/wazuh.png" width="48" height="48" alt="Wazuh" />
+![](https://skillicons.dev/icons?i=py,linux) <img src="https://github.com/PortSwigger.png" width="48" height="48" alt="Burp Suite" /> <img src="https://github.com/wireshark.png" width="48" height="48" alt="Wireshark" /> <img src="https://github.com/splunk.png" width="48" height="48" alt="Splunk" /> <img src="https://github.com/wazuh.png" width="48" height="48" alt="Wazuh" />
 
 **Cloud & Infrastructure**
 <br/>
@@ -41,6 +41,9 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 **Databases**
 <br/>
 ![](https://skillicons.dev/icons?i=mysql,postgres,firebase)
+
+<br/>
+
 ---
 
 ### 🧪 Security Projects & Hands-On Work
