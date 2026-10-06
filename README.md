@@ -28,7 +28,7 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 
 **Security & Testing**
 <br/>
-![](https://skillicons.dev/icons?i=py,linux) <img src="https://github.com/wireshark.png" width="48" height="48" alt="Wireshark" /> <img src="https://github.com/splunk.png" width="48" height="48" alt="Splunk" /> <img src="https://github.com/wazuh.png" width="48" height="48" alt="Wazuh" />
+![](https://skillicons.dev/icons?i=py,linux,burpsuite) <img src="https://github.com/wireshark.png" width="48" height="48" alt="Wireshark" /> <img src="https://github.com/splunk.png" width="48" height="48" alt="Splunk" /> <img src="https://github.com/wazuh.png" width="48" height="48" alt="Wazuh" />
 
 **Cloud & Infrastructure**
 <br/>
