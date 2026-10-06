@@ -32,7 +32,7 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 
 **Cloud & Infrastructure**
 <br/>
-![](https://skillicons.dev/icons?i=gcp,docker)
+![](https://skillicons.dev/icons?i=gcp,aws,docker)
 
 **Development**
 <br/>
