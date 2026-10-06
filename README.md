@@ -30,8 +30,11 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 **Security & Testing**
 <br/>
 ![](https://skillicons.dev/icons?i=py,linux)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AB7FF?style=flat-square)
 <br/>
-Enumeration & recon scripting · Packet/traffic analysis · Security-testing fundamentals
+Enumeration & recon scripting · Packet/traffic analysis (Wireshark) · Log analysis & SIEM (Splunk, Wazuh) · Security-testing fundamentals
 
 **Cloud & Infrastructure**
 <br/>
@@ -45,9 +48,11 @@ Google Cloud Platform · Containerization · IAM & access control fundamentals
 <br/>
 Python · JavaScript/TypeScript · HTML/CSS
 
-**Tools**
+**Databases**
 <br/>
-![](https://skillicons.dev/icons?i=git,vscode)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-336791?style=flat-square)
 
 ---
 
@@ -68,10 +73,6 @@ An OSINT-style script using the `phonenumbers` library to extract carrier and ap
 **[BMW-Motorrad](https://github.com/Sumanta-Debnath/BMW-Motorrad)** — HTML/CSS
 <br/>
 A front-end web application built to practice core web fundamentals (HTML, CSS, DOM scripting). Understanding how web applications are structured and rendered is foundational to being able to secure them.
-
-**[Algorithm-programs](https://github.com/Sumanta-Debnath/Algorithm-programs)** — Python
-<br/>
-A collection of data structures and algorithms implementations, reflecting the problem-solving foundation that underpins security tooling and automation work.
 
 ---
 
@@ -99,17 +100,7 @@ Primary area of interest, studied and practiced through personal projects and pr
 
 ---
 
-### 📚 Currently Learning / Exploring
-
-- Advanced Web Application Security techniques
-- Cloud Security on Google Cloud Platform
-- DevSecOps — integrating security into CI/CD pipelines
-- API security
-- Security automation and tooling
-
----
-
-### 📡 Connect
+### Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumanta-debnath-587329206/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
