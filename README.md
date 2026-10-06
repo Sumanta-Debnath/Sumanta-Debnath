@@ -29,27 +29,18 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 **Security & Testing**
 <br/>
 ![](https://skillicons.dev/icons?i=py,linux) <img src="https://github.com/wireshark.png" width="48" height="48" alt="Wireshark" /> <img src="https://github.com/splunk.png" width="48" height="48" alt="Splunk" /> <img src="https://github.com/wazuh.png" width="48" height="48" alt="Wazuh" />
-<br/>
-Enumeration & recon scripting · Packet/traffic analysis (Wireshark) · Log analysis & SIEM (Splunk, Wazuh) · Security-testing fundamentals
 
 **Cloud & Infrastructure**
 <br/>
 ![](https://skillicons.dev/icons?i=gcp,docker)
-<br/>
-Google Cloud Platform · Containerization · IAM & access control fundamentals
 
 **Development**
 <br/>
 ![](https://skillicons.dev/icons?i=py,js,ts,html,css)
-<br/>
-Python · JavaScript/TypeScript · HTML/CSS
 
 **Databases**
 <br/>
-![](https://skillicons.dev/icons?i=postgres,firebase,mysql)
-<br/>
-PostgreSQL · Firebase · MySQL
-
+![](https://skillicons.dev/icons?i=mysql,postgres,firebase)
 ---
 
 ### 🧪 Security Projects & Hands-On Work
