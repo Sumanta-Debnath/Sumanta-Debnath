@@ -42,8 +42,6 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 <br/>
 ![](https://skillicons.dev/icons?i=mysql,postgres,firebase)
 
-<br/>
-
 ---
 
 ### 🧪 Security Projects & Hands-On Work
