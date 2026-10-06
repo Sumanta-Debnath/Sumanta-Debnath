@@ -1,5 +1,7 @@
-<h1 align="center">Sumanta Debnath</h1>
-<p align="center"><strong>Cybersecurity-focused technologist specializing in Web Application Security &amp; Cloud Security</strong></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&height=60&lines=Sumanta+Debnath;securing+web+apps+%26+cloud;%24+whoami" alt="Sumanta Debnath" />
+</h1>
+<p align="center"><strong>Securing web apps &amp; cloud infrastructure</strong></p>
 
 <p align="center">
 Cloud Developer with a background as a Cybersecurity Trainer, focused on securing web applications, cloud environments, and modern software systems. Interested in vulnerability assessment, secure software development, and security engineering practices that hold up in production.
