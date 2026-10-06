@@ -18,7 +18,6 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 
 - **Web Application Security** — common vulnerability classes (OWASP Top 10), authentication/authorization flows, secure session handling
 - **Vulnerability Assessment & Security Testing** — reconnaissance and enumeration techniques, attack-surface discovery
-- **Network Security Analysis** — packet capture inspection and traffic analysis for anomaly/pattern detection
 - **Cloud Security** — identity and access management, secure configuration, and monitoring within Google Cloud Platform
 - **Secure Software Development** — writing and reviewing code with security considerations from the start
 - **DevSecOps** — bringing security practices into version control and CI/CD workflows
@@ -29,10 +28,7 @@ Cloud Developer with a background as a Cybersecurity Trainer, focused on securin
 
 **Security & Testing**
 <br/>
-![](https://skillicons.dev/icons?i=py,linux)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3AB7FF?style=flat-square)
+![](https://skillicons.dev/icons?i=py,linux) <img src="https://github.com/wireshark.png" width="48" height="48" alt="Wireshark" /> <img src="https://github.com/splunk.png" width="48" height="48" alt="Splunk" /> <img src="https://github.com/wazuh.png" width="48" height="48" alt="Wazuh" />
 <br/>
 Enumeration & recon scripting · Packet/traffic analysis (Wireshark) · Log analysis & SIEM (Splunk, Wazuh) · Security-testing fundamentals
 
@@ -50,9 +46,9 @@ Python · JavaScript/TypeScript · HTML/CSS
 
 **Databases**
 <br/>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQL Workbench](https://img.shields.io/badge/SQL%20Workbench-336791?style=flat-square)
+![](https://skillicons.dev/icons?i=postgres,firebase,mysql)
+<br/>
+PostgreSQL · Firebase · MySQL
 
 ---
 
