@@ -4,7 +4,7 @@
 <p align="center"><strong>Securing web apps &amp; cloud infrastructure</strong></p>
 
 <p align="center">
-Cloud Developer with a background as a Cybersecurity Trainer, focused on securing web applications, cloud environments, and modern software systems. Interested in vulnerability assessment, secure software development, and security engineering practices that hold up in production.
+I'm a Cloud Developer with a background as a Cybersecurity Trainer, focused on securing web applications, cloud environments, and modern software systems. Interested in vulnerability assessment, secure software development, and security engineering practices that hold up in production.
 </p>
 
 <p align="center">
